@@ -1,6 +1,6 @@
 # Walmart Sales Data Analysis
 
-![spotify Logo][(https://raw.githubusercontent.com/HtunNaing-bit/DataWalmart/refs/heads/main/logo.webp)]
+![spotify Logo](https://raw.githubusercontent.com/HtunNaing-bit/DataWalmart/refs/heads/main/logo.webp)
 
 ## About
 
